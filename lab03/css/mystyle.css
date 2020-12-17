@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+    background-color: rgb(202, 154, 154);
+}
+
+body img {
+    width: 500px;
+
+}
+
+body p {
+    color: rgb(255, 153, 0);
+    padding: 10px;
+    font-size: 45px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+body a {
+    font-size: 30px;
+}
