@@ -1,6 +1,10 @@
 body {
     font-family: arial;
+<<<<<<< HEAD
     background-color: rgb(202, 154, 154);
+=======
+    background-color: rgb(219, 213, 213);
+>>>>>>> 85771207c14c2f5b01acfd15bd2891c6a0dba148
 }
 
 body img {
